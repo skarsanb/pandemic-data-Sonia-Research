@@ -20,9 +20,9 @@ Notebooks Build” subfolder, which is located in the “Data” folder. The fil
 
 ### Contents of this Repository
 Name of Folder/Subfolder | Contents of Folder/Subfolder
-| :--- | ---:
+| :---: | :---:
 <ins>Data</ins> Folder | contains 4 subfolders with all of the necessary data to run each Jupyter Notebook, examine our results, and read to avoid running code that takes a relatively long time to execute.  
-<ins>A Matrices</ins> Subfolder | located in the <ins>Data</ins> Folder, this subfolder contains  all 451 *A tilde* matrices for our model that are input to the ***Build Average A Matrix*** Jupyter Notebook
+<ins>A Matrices</ins> Subfolder | located in the <ins>Data</ins> Folder, this subfolder contains  all 451 ni\~{A}o A tilde matrices for our model that are input to the ***Build Average A Matrix*** Jupyter Notebook
 <hr>
 
 
