@@ -10,12 +10,11 @@ For the last year and a half I have been a Research Assistant for Dr. Philip Bro
 <hr>
 
 ### Methodology
-Using an SEIR infectious disease model that accurately reflected the transmission and spread of COVID-19, we were able to derive equations for ${S(t+1), E(t), I(t+1), R(t+1), \beta(t)}$. In order to answer the research question above, each of the Jupyter Notebooks in this repository were used to build various data structures and CSV files, as well as compute values for each of these expressions. An in-depth explanation of the methods I used as well as the derivation for each equation can be found in our paper.    
+Using an SEIR infectious disease model that accurately reflected the transmission and spread of COVID-19, we were able to derive equations for ${S(t+1), E(t), I(t+1), R(t+1) and \beta(t)}$. In order to answer the research question above, each of the Jupyter Notebooks in this repository were used to build various data structures and CSV files, as well as compute values for each of these expressions. An in-depth explanation of the methods I used as well as the derivation for each equation can be found in our paper.    
 <hr>
 
 ### Results
-The beta values for COVID-19 over a time span of 450 days, from January 17, 2020, to April 10, 2021, for all 3,133 U.S. counties can be found in this repository, under the “Data Jupyter 
-Notebooks Build” subfolder, which is located in the “Data” folder. The file is titled beta_matrix.csv.
+The beta values for COVID-19 over a time span of 450 days, from January 17, 2020, to April 10, 2021, for all 3,133 U.S. counties can be found in this repository, under the <ins>Data Jupyter Notebooks Build</ins> subfolder, which is located in the <ins>Data</ins> folder. The file is titled beta_matrix.csv.
 <hr>
 
 ### Contents of this Repository
