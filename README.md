@@ -10,7 +10,7 @@ For the last year and a half I have been a Research Assistant for Dr. Philip Bro
 <hr>
 
 ### Methodology
-Using an SEIR infectious disease model that accurately reflected the transmission and spread of COVID-19, we were able to derive equations for ${S(t+1), E(t), I(t+1), R(t+1), \beta(t)}$. In order to answer the research question above, each of the Jupyter Notebooks in this repository were used to build various data structures and CSV files, as well as compute values for each of these expressions. An in depth explanation of the methods I used as well as the derivation for each equation can be found in our paper.    
+Using an SEIR infectious disease model that accurately reflected the transmission and spread of COVID-19, we were able to derive equations for ${S(t+1), E(t), I(t+1), R(t+1), \beta(t)}$. In order to answer the research question above, each of the Jupyter Notebooks in this repository were used to build various data structures and CSV files, as well as compute values for each of these expressions. An in-depth explanation of the methods I used as well as the derivation for each equation can be found in our paper.    
 <hr>
 
 ### Results
