@@ -1,4 +1,4 @@
-#  Sonia's Research - 
+#  Sonia's COVID-19 Research - 
 **An Analysis of the Spread and Transmission of COVID-19 in the United States Through Spatial Mobility Data Using a Network Model**
 
 # Motivation
