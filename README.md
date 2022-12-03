@@ -29,7 +29,7 @@ Name of Folder/Subfolder or file | Contents of Folder/Subfolder or file
 |<ins>beta_vs_sum_of_mobility_scatter_plot_data</ins> Folder | contains the data for the Beta vs. Sum of Mobility scatter plots. This folder contains CSVs for 7 counties: Orange County, CA, San Francisco County, CA, Denver County, CO, El Paso County, CO, Hudson County, NJ, New York City County, NY and Perry County, PA.
 |<ins>environment.yml </ins> File | this file can be used to replicate the conda environment that I used to write all of the Jupyter Notebooks included in this repository
 
-Below shows which Jupyter Notebook each CSV in the <ins>Jupyter Notebook input</ins> Subfolder uses as input
+Below shows which Jupyter Notebook each CSV in the <ins>Jupyter Notebook input</ins> Subfolder uses as input - 
  1. Final_Paper_Data_avg_cases.csv – input to the ***Build A Matrices - with New York City*** Jupyter Notebook
  2. Final_Paper_Data_avg_cases_with_New_York_City.csv – input to the ***Analysis with Network Models - Paper Notebook with       Average A Matrix and New York City*** Jupyter Notebook
  3. Paper_Data_avg_cases_with_New_York_City.csv – input to the ***Build Paper CSV - with New York City*** Jupyter Notebook
@@ -40,8 +40,8 @@ Below shows which Jupyter Notebook each CSV in the <ins>Jupyter Notebook input</
 ### Notes
 - Due to file size, the CSVs for the vaccine data and Average A Matrix could not be uploaded to this 
 repository. Nonetheless, the vaccine data CSV can be downloaded from the URL listed below while the Average A Matrix can be built using the Jupyter Notebook titled ***Build Average A Matrix***. The vaccine data CSV is required as input for the Notebook called ***Automate Data (Create a CSV File) – New York Times Rolling-Averages***, while the CSV containing the Average A matrix is required as input for the ***Analysis with Network Models - Paper Notebook with Average A Matrix and New York City*** Jupyter Notebook in order to calculate the beta values.
-      The vaccine data is in a file called COVID-19_Vaccinations_in_the_United_States_County.csv and can be downloaded at       the URL below, 
-          URL: [https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-StatesCounty/8xkx-amqh]
+      The vaccine data is in a file called COVID-19_Vaccinations_in_the_United_States_County.csv and can be located and         downloaded at the URL below. 
+          URL: [https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh]
           
 - The cells of the ***Analysis with Network Models - Paper Notebook with Average A Matrix and New York 
 City*** Jupyter Notebook that builds the structures containing the case, vaccine, population, and beta
