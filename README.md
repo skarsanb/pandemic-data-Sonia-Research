@@ -26,9 +26,10 @@ Name of Folder/Subfolder | Contents of Folder/Subfolder
 <ins>Aggregated A Matrix</ins> Subfolder | located in the <ins>Data</ins> Folder, contains the 3,133 rows by 451 columns Daily A Matrix that the ***Build Daily A Matrix*** Jupyter Notebook builds
 <ins>Data Jupyter Notebooks Build</ins> Subfolder | located in the <ins>Data</ins> Folder, contains the CSV files that store the matrices for the population, case, and vaccine data, which can take a long time to build. This subfolder also contains the CSV containing all of the beta values the “Analysis with Network Models - Paper Notebook with Average A Matrix and New York City” Jupyter Notebook creates
 <ins>Data Jupyter Notebooks Build</ins> Subfolder | located in the <ins>Data</ins> Folder, contains 5 CSVs that are input to Jupyter Notebooks
-\begin{itemize}
-  \item {Final_Paper_Data_avg_cases.csv – input to the ***Build A Matrices - with New York City*** Jupyter Notebook}
-\end{itemize}
+\begin{enumerate}
+  \item Final_Paper_Data_avg_cases.csv – input to the ***Build A Matrices - with New York City*** Jupyter Notebook
+  \item Test
+\end{enumerate}
 <hr>
 
 
