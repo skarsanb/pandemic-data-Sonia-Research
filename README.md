@@ -41,7 +41,7 @@ Below shows which Jupyter Notebook each CSV in the <ins>Jupyter Notebook input</
 - Due to file size, the CSVs for the vaccine data and Average A Matrix could not be uploaded to this 
 repository. Nonetheless, the vaccine data CSV can be downloaded from the URL listed below while the Average A Matrix can be built using the Jupyter Notebook titled ***Build Average A Matrix***. The vaccine data CSV is required as input for the Notebook called ***Automate Data (Create a CSV File) – New York Times Rolling-Averages***, while the CSV containing the Average A matrix is required as input for the ***Analysis with Network Models - Paper Notebook with Average A Matrix and New York City*** Jupyter Notebook in order to calculate the beta values.
       The vaccine data is in a file called COVID-19_Vaccinations_in_the_United_States_County.csv and can be located and         downloaded at the URL below. 
-          URL: [https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh]
+          [URL:] (https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh){:target="\_blank"}
           
 - The cells of the ***Analysis with Network Models - Paper Notebook with Average A Matrix and New York 
 City*** Jupyter Notebook that builds the structures containing the case, vaccine, population, and beta
