@@ -52,5 +52,5 @@ structures will execute. On the other hand, when this flag variable is set to Fa
 not execute. Rather, these structures will be built by reading in the data from the CSVs that are already 
 created, which are all located in the <ins>Data</ins> folder under the <ins>Data Jupyter Notebooks Build</ins> subfolder.
 
-- At the very top of each Jupyter Notebook is a path variable
+- At the very top of each Jupyter Notebook are path variables that can be set for input and output files. The default path is the file path in this GitHub repository. This allows the user to clone this repository and replicate our results. 
 <hr>
