@@ -23,11 +23,11 @@ Name of Folder/Subfolder or file | Contents of Folder/Subfolder or file
 |<ins>Data</ins> Folder | contains 4 subfolders with all of the necessary data to run each Jupyter Notebook, examine our results, and read to avoid running code that takes a relatively long time to execute. 
 |<ins>A Matrices</ins> Subfolder | located in the <ins>Data</ins> Folder, contains  all 451 $\tilde{A}^T$ matrices for our model that are input to the ***Build Average A Matrix*** Jupyter Notebook
 |<ins>Aggregated A Matrix</ins> Subfolder | located in the <ins>Data</ins> Folder, contains the 3,133 rows by 451 columns Daily A Matrix that the ***Build Daily A Matrix*** Jupyter Notebook builds
-|<ins>Data Jupyter Notebooks Build</ins> Subfolder | located in the <ins>Data</ins> Folder, contains the CSV files that store the matrices for the population, case, and vaccine data, which can take a long time to build. This subfolder also contains the CSV containing all of the beta values the “Analysis with Network Models - Paper Notebook with Average A Matrix and New York City” Jupyter Notebook creates
+|<ins>Data Jupyter Notebooks Build</ins> Subfolder | located in the <ins>Data</ins> Folder, contains the CSV files that store the matrices for the population, case, and vaccine data, which can take a long time to build. This subfolder also contains the CSV containing all of the beta values the ***Analysis with Network Models - Paper Notebook with Average A Matrix and New York City*** Jupyter Notebook creates
 |<ins>Jupyter Notebook input</ins> Subfolder | located in the <ins>Data</ins> Folder, contains 5 CSVs that are input to Jupyter Notebooks
 |<ins>Jupyter Notebooks</ins> Folder | contains all of the necessary Notebooks to recreate our study
 |<ins>beta_vs_sum_of_mobility_scatter_plot_data</ins> Folder | contains the data for the Beta vs. Sum of Mobility scatter plots. This folder contains CSVs for 7 counties: Orange County, CA, San Francisco County, CA, Denver County, CO, El Paso County, CO, Hudson County, NJ, New York City County, NY and Perry County, PA.
-|<ins>Jupyter Notebooks</ins> Folder | contains all of the necessary Notebooks to recreate our study
+|<ins>environment.yml </ins> File | this file can be used to replicate the conda environment that I used to write all of the Jupyter Notebooks included in this repository
 
 Below shows which Jupyter Notebook each CSV in the <ins>Jupyter Notebook input</ins> Subfolder uses as input
  1. Final_Paper_Data_avg_cases.csv – input to the ***Build A Matrices - with New York City*** Jupyter Notebook
